@@ -1,0 +1,14 @@
+{
+    "name": "google_drive_api",
+    "version": "1.0.0",
+    "description": "Upload, Create URL and Delete File from Google Drive",
+    "main": "app.js",
+
+    "scripts": {
+        "test": "echo \"Error: No Test Specified\" && exit 1"
+    },
+
+    "author": "Kevin Lee",
+    "license": "ISC"
+}
+
